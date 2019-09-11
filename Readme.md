@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Муса Арчаков](https://up.htmlacademy.ru/javascript/18/user/622313).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Марченко](https://htmlacademy.ru/profile/id1101807).
 
 ---
 
